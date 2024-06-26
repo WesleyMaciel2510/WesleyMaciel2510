@@ -63,7 +63,7 @@
     <img title="Jest" alt="Jest" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
     <img title="Sqlite" alt="Sqlite" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
     <img title="Babel" alt="Babel" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" />
-    <img title="AWS" alt="AWS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" />
+    <img title="AWS" alt="AWS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   </div>
 </div>
 
