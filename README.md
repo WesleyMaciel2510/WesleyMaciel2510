@@ -70,8 +70,7 @@
 <div>
   <h2>📊 Github Stats</h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&show_icons=true&langs_count=10&theme=dracula&hide_border=true&username=WesleyMaciel2510" height="200px alt="Gráfico das linguagens mais usadas" />
-    <img src="https://github-readme-stats.vercel.app/api?username=WesleyMaciel2510&&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="200px alt="Github Status de WesleyMaciel2510" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&show_icons=true&langs_count=10&theme=dracula&hide_border=true&username=WesleyMaciel2510" height="200px alt="Most Used Languages" />
   </div>
 </div>
 
