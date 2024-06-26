@@ -13,8 +13,8 @@
     <li> 🎯 Pós Graduado: Arquitetura de Software, Desenvolvimento de Aplicações para Dispositivos Móveis </li>
     <li> :pushpin: Meu foco principal: Desenvolvimento Mobile,</li>
     <li> 💬 Me pergunte sobre qualquer coisa, adoro conversar, ensinar e ajudar pessoas,</li>
-    <li> ⚡ Aprendendo as Tecnologias : Flutter, Kotlin - Jetpack Compose </li>
-    <li> &#127775 "LifeLong Learning." - Isaac Asimov &#127757 &#127756"
+    <li> 📚 Aprendendo as Tecnologias : Flutter, Kotlin - Jetpack Compose </li>
+    <li> &#127757 "LifeLong Learning." - Isaac Asimov  &#127756"
   </div>
 </div>
 
@@ -76,7 +76,7 @@
   </div>
 </div>
 
-<h3 >Let's Connect!</h3>
+<h3 >⚡ Let's Connect!</h3>
 <div>
   <a href="https://www.linkedin.com/in/wesley-maciel/" target="_blank" align="left"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wesleymaciel2500@gmail.com" align="left"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
