@@ -12,7 +12,7 @@
     <li> :mortar_board: Formado em Sistemas de Informação (bacharel) & ADS (tecnólogo) na <a href="https://www.unifran.edu.br/">Unifran</a>,</li>
     <li> 🎯 Pós Graduado: Arquitetura de Software, Desenvolvimento de Aplicações para Dispositivos Móveis </li>
     <li> :pushpin: Meu foco principal: Desenvolvimento Mobile,</li>
-    <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar, ensinar e ajudar pessoas,</li>
+    <li> 💬 Me pergunte sobre qualquer coisa, adoro conversar, ensinar e ajudar pessoas,</li>
     <li> ⚡ Aprendendo as Tecnologias : Flutter, Kotlin - Jetpack Compose </li>
     <li> &#127775 "LifeLong Learning." - Isaac Asimov &#127757 &#127756"
   </div>
