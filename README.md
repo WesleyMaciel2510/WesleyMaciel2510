@@ -68,16 +68,6 @@
   </div>
 </div>
 
----
-
-<h3>Estatística:</h3>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley-maciel&show_icons=true&locale=en&layout=compact&true&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21" alt="wesley-maciel" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley-maciel&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="wesley-maciel" width="420" />
-</div>
-
----
-
 <h3 >Let's Connect!</h3>
 <div>
   <a href="https://www.linkedin.com/in/wesley-maciel/" target="_blank" align="left"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
