@@ -35,6 +35,7 @@
   <img title="JetPack Compose" alt="JetPack Compose" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
   <img title="Kotlin" alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
     <img title="Flutter" alt="Flutter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+    <img title="Firebase" alt="Firebase" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" />
   </div>
   <div>
     <h4>Desenvolvimento Front-End</h4>
@@ -57,14 +58,20 @@
     <img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img title="Terminal" alt="Terminal" height="40" width="40" src="https://cdn.svgporn.com/logos/terminal.svg" />
     <img title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img title="NPM" alt="NPM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img title="Eslint" alt="Eslint" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
     <img title="Jest" alt="Jest" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
     <img title="Sqlite" alt="Sqlite" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
     <img title="Babel" alt="Babel" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" />
-    <img title="Vscode" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img title="Trello" alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+    <img title="AWS" alt="AWS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" />
+  </div>
+</div>
+
+<div>
+  <h2>📊 Github Stats</h2>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&show_icons=true&langs_count=10&theme=dracula&hide_border=true&username=WesleyMaciel2510" height="200px alt="Gráfico das linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WesleyMaciel2510&&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="200px alt="Github Status de WesleyMaciel2510" />
   </div>
 </div>
 
