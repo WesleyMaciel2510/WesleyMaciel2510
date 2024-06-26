@@ -36,6 +36,7 @@
   <img title="Kotlin" alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
     <img title="Flutter" alt="Flutter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
     <img title="Firebase" alt="Firebase" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" />
+    <img title="Gradle" alt="Gradle" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" />
   </div>
   <div>
     <h4>Desenvolvimento Front-End</h4>
