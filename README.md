@@ -15,8 +15,7 @@
     <li> 💬 Me pergunte sobre qualquer coisa, adoro conversar, ensinar e ajudar pessoas,</li>
     <li> 📚 Aprendendo as Tecnologias : Flutter, Kotlin - Jetpack Compose </li>
     <li>🌐 Languages: 🇺🇸 English and 🇧🇷 Portuguese</li>
-
-    <li> &#127757 "LifeLong Learning." - Isaac Asimov  &#127756"
+    <li> 🌌 "LifeLong Learning." - Isaac Asimov  🌎
   </div>
 </div>
 
