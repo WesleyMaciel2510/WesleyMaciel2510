@@ -20,8 +20,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesley-maciel&label=Profile%20views&color=0e75b6&style=flat" alt="wesley-maciel" /> </p>
-
 <div>
   <h2>🛠️ Minhas habilidades</h2>
   <div>
