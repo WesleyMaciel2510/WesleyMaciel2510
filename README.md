@@ -8,13 +8,19 @@
 
   <div align="center">
   <div align="left" style="display: inline_block">
+    <ul>
     <li> :star2: Apaixonado por tecnologia e entusiasta de ficção científica,</li>
     <li> :mortar_board: Formado em Sistemas de Informação (bacharel) & ADS (tecnólogo) na <a href="https://www.unifran.edu.br/">Unifran</a>,</li>
     <li> 🎯 Pós Graduado: Arquitetura de Software, Desenvolvimento de Aplicações para Dispositivos Móveis </li>
     <li> :pushpin: Meu foco principal: Desenvolvimento Mobile,</li>
     <li> 💬 Me pergunte sobre qualquer coisa, adoro conversar, ensinar e ajudar pessoas,</li>
     <li> 📚 Aprendendo as Tecnologias : Flutter, Kotlin - Jetpack Compose </li>
+    <li> 🏆 ⌚ Acredito que a disciplina e a prática deliberada são fatores essenciais para meu crescimento.</li>
+    <li> 🚀Iniciando como estagiário e com trabalho duro, ao invés de me vender com palavras, uso minha trajetória para demonstrar de forma prática que sou um profissional que busca melhoria contínua.</li>
+    <li> 💡 Embora Faculdade não seja o único caminho na Tecnologia, acredito que a educação transforma pessoas, e todo esforço inteligente e bem direcionado se paga no longo prazo. 📈</li>
+    <li> 🔍 Gosto de entender "Por que" as coisas funcionam e não somente fazê-las funcionarem. Aprender gera desconforto, mas a recompensa é imensurável! ⚡⌚🌌</li>
     <li> 🌌 "LifeLong Learning." - Isaac Asimov  🌎
+    </ul>
   </div>
 </div>
 
