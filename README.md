@@ -73,13 +73,6 @@
   </div>
 </div>
 
-<div>
-  <h2>📊 Github Stats</h2>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&show_icons=true&langs_count=10&theme=dracula&hide_border=true&username=WesleyMaciel2510" height="200px alt="Most Used Languages" />
-  </div>
-</div>
-
 <h3 >⚡ Let's Connect!</h3>
 <div>
   <a href="https://www.linkedin.com/in/wesley-maciel/" target="_blank" align="left"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
