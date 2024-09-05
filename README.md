@@ -12,9 +12,9 @@
     <li> :star2: Entusiasta de Astronomia e ficção científica,</li>
     <li> :mortar_board: Formado em Sistemas de Informação (bacharel) & ADS (tecnólogo) na <a href="https://www.unifran.edu.br/">Unifran</a>,</li>
     <li> 🎯 Pós Graduado: Arquitetura de Software, Desenvolvimento de Aplicações para Dispositivos Móveis </li>
-    <li> :pushpin: Meu foco principal: Desenvolvimento Mobile,</li>
+    <li> :pushpin: Meu foco principal: Desenvolvimento Back-end</li>
     <li> 💬 Me pergunte sobre qualquer coisa, adoro conversar, ensinar e ajudar pessoas,</li>
-    <li> 📚 Aprendendo as Tecnologias : Flutter, Kotlin - Jetpack Compose </li>
+    <li> 📚 Aprendendo as Tecnologias : Java SpringBoot, Kotlin - Jetpack Compose </li>
     <li> 🔍 Gosto de entender "Por que" as coisas funcionam e não somente fazê-las funcionarem. Aprender gera desconforto, mas a recompensa é imensurável! ⚡⌚🌌</li>
     <li> 🌌 "LifeLong Learning." - Isaac Asimov  🌎
     </ul>
@@ -29,6 +29,7 @@
     <h4>Linguagens</h4>
     <img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img title="TypeScript" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+    <img title="Java" alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
   </div>
   <div>
     <h4>Desenvolvimento Mobile</h4>
@@ -42,6 +43,7 @@
   </div>
   <div>
     <h4>Desenvolvimento Front-End</h4>
+    <img title="Angular" alt="Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" />
     <img title="React" alt="React" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
     <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
     <img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
@@ -50,6 +52,7 @@
   </div>
   <div>
     <h4>Desenvolvimento Back-End</h4>
+    <img title="Spring" alt="Spring" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
     <img title="Node.JS" alt="Node.JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
     <img title="MySQL" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img title="OracleDB" alt="OracleDB" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
