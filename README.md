@@ -37,7 +37,6 @@
   <img title="Android Studio" alt="Android Studio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
     <img title="Gradle" alt="Gradle" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" />
   <img title="JetPack Compose" alt="JetPack Compose" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
-  <img title="Kotlin" alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
     <img title="Flutter" alt="Flutter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
   </div>
   <div>
@@ -63,7 +62,6 @@
     <img title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img title="NPM" alt="NPM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img title="Eslint" alt="Eslint" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-    <img title="Jest" alt="Jest" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
     <img title="Sqlite" alt="Sqlite" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
     <img title="Postman" alt="Postman" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" />
     
