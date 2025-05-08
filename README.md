@@ -43,7 +43,6 @@
   </div>
   <div>
     <h4>Desenvolvimento Front-End</h4>
-    <img title="Angular" alt="Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" />
     <img title="React" alt="React" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
     <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
     <img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
@@ -52,7 +51,6 @@
   </div>
   <div>
     <h4>Desenvolvimento Back-End</h4>
-    <img title="Spring" alt="Spring" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
     <img title="Node.JS" alt="Node.JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
     <img title="MySQL" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img title="OracleDB" alt="OracleDB" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
