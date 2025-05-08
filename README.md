@@ -39,7 +39,6 @@
   <img title="JetPack Compose" alt="JetPack Compose" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
   <img title="Kotlin" alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
     <img title="Flutter" alt="Flutter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
-    <img title="Firebase" alt="Firebase" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" />
   </div>
   <div>
     <h4>Desenvolvimento Front-End</h4>
@@ -67,8 +66,6 @@
     <img title="Jest" alt="Jest" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
     <img title="Sqlite" alt="Sqlite" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
     <img title="Postman" alt="Postman" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" />
-    <img title="Babel" alt="Babel" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" />
-    <img title="AWS" alt="AWS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     
     
   </div>
